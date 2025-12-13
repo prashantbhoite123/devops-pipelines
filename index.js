@@ -2,7 +2,6 @@ console.log("hello devops")
 console.log("Iam learning CI/CD using github actions");
 
 
-console.log("hey its me vaishanvi iam learning github");
-console.log("working on mnc company");
-
-
+console.log("prashant is working on his branch")
+console.log("prashant is a chagpt developer");
+console.log("prashant is a bad boy");
